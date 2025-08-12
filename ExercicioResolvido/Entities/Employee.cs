@@ -1,4 +1,4 @@
-﻿namespace MyNamespace.Entities;
+﻿namespace ExercicioResolvido.Entities;
 
 public class Employee
 {
