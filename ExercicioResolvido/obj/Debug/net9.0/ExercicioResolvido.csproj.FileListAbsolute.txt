@@ -1,0 +1,14 @@
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioResolvidoAula113\ExercicioResolvido\ExercicioResolvido\bin\Debug\net9.0\ExercicioResolvido.exe
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioResolvidoAula113\ExercicioResolvido\ExercicioResolvido\bin\Debug\net9.0\ExercicioResolvido.deps.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioResolvidoAula113\ExercicioResolvido\ExercicioResolvido\bin\Debug\net9.0\ExercicioResolvido.runtimeconfig.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioResolvidoAula113\ExercicioResolvido\ExercicioResolvido\bin\Debug\net9.0\ExercicioResolvido.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioResolvidoAula113\ExercicioResolvido\ExercicioResolvido\bin\Debug\net9.0\ExercicioResolvido.pdb
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioResolvidoAula113\ExercicioResolvido\ExercicioResolvido\obj\Debug\net9.0\ExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioResolvidoAula113\ExercicioResolvido\ExercicioResolvido\obj\Debug\net9.0\ExercicioResolvido.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioResolvidoAula113\ExercicioResolvido\ExercicioResolvido\obj\Debug\net9.0\ExercicioResolvido.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioResolvidoAula113\ExercicioResolvido\ExercicioResolvido\obj\Debug\net9.0\ExercicioResolvido.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioResolvidoAula113\ExercicioResolvido\ExercicioResolvido\obj\Debug\net9.0\ExercicioResolvido.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioResolvidoAula113\ExercicioResolvido\ExercicioResolvido\obj\Debug\net9.0\refint\ExercicioResolvido.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioResolvidoAula113\ExercicioResolvido\ExercicioResolvido\obj\Debug\net9.0\ExercicioResolvido.pdb
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioResolvidoAula113\ExercicioResolvido\ExercicioResolvido\obj\Debug\net9.0\ExercicioResolvido.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 9\ExercicioResolvidoAula113\ExercicioResolvido\ExercicioResolvido\obj\Debug\net9.0\ref\ExercicioResolvido.dll
