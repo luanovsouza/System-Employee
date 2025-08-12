@@ -22,4 +22,9 @@ public class OutSourcedEmployee : Employee
         
         return basepayment + aditional; //Retornando a conta do salário mais o bonus
     }
+
+    public override string ToString()
+    {
+        return base.ToString() + "( Terceirizado(a))";
+    }
 }

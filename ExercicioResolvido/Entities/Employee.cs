@@ -1,4 +1,6 @@
-﻿namespace ExercicioResolvido.Entities;
+﻿using System.Globalization;
+
+namespace ExercicioResolvido.Entities;
 
 public class Employee
 {
@@ -20,5 +22,10 @@ public class Employee
     public virtual double Payment()
     {
         return Hours * ValuePerHour;
+    }
+
+    public override string ToString()
+    {
+        return $"{Name} - $ {Payment().ToString("F2", CultureInfo.InvariantCulture)}";
     }
 }
